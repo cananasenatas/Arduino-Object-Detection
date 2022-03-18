@@ -1,4 +1,4 @@
-# Arduino-Object-Detection
+# Arduino Object Detection
 # Aim
 The aim of this project is to enable the mini pan to detect the black spot in the area shown by the camera and position it relative to that point, and to shoot a laser at the center of that point.
 
